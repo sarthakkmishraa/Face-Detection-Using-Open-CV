@@ -19,4 +19,4 @@ INPUT :
 
 OUTPUT :
 
-<img align = centre height = 768 width = 1366   src = https://github.com/sarthakkmishraa/Face-Detection-Using-Open-CV/blob/master/Output.PNG>
+<img align = centre height = 768 width = 1024   src = https://github.com/sarthakkmishraa/Face-Detection-Using-Open-CV/blob/master/Output.PNG>
