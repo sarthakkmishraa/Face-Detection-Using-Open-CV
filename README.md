@@ -13,4 +13,6 @@ Similarly, we can detect faces in videos. As videos are basically made up of fra
 
 The only difference here is that we use an infinite loop to loop through each frame in the video. We use cap.read() to read each frame. The first value returned is a flag that indicates if the frame was read correctly or not. We don’t need it. The second value returned is the still frame on which we will be performing the detection.
 
+OUTPUT :
+
 <img align = centre height = 768 width = 1366   src = https://github.com/sarthakkmishraa/Face-Detection-Using-Open-CV/blob/master/Output.PNG>
